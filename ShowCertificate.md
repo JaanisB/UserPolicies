@@ -2,7 +2,7 @@
 
 Simple application to show document image with one click
 
-Application can store one document image up to 2MB size. After that every time user opens, he immediately sees previously loaded certificate. So every time user need to show certificate (e.g. Covid-19 pass certifiate or other) - this certificate is just one click away.
+Application can store one document image up to 2MB size. After that every time user opens, he immediately sees previously loaded certificate. So every time user need to show certificate - this certificate is just one click away.
 
 To achieve app functionality is used: ViewModel, Dagger-Hilt, LiveData, StateFlow, ROOM database, Couratines, Material design, MVVM architecture.
 
